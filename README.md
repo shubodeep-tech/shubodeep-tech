@@ -132,20 +132,3 @@ const shubodeep = {
 
 ---
 
-### 🎓 Certification
-
-📜 **Web Jyoti** — AI Agentic Application Development
-
----
-
-<div align="center">
-
-*"Efficiency is not optional — it's engineered."* 🚀
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:c800ff,100:6e00ff&height=130&section=footer" width="100%"/>
-
-</div>

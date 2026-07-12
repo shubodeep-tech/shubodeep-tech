@@ -55,12 +55,11 @@ const shubodeep = {
 - 🤖 Integrated **Gemini API** with structured prompt engineering
 - 🔐 Engineered **secure auth** — Passport.js + Joi validation
 - 🗺️ Live maps with **Mapbox** + image CDN via **Cloudinary**
-- 📍 Gurugram, India
+- 📍 Visakhapatnam, India
 
 ---
 
 ### 💻 Most Used Languages
-
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript_60%25+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -122,7 +121,7 @@ const shubodeep = {
 ### 🏆 Key Achievements
 
 | ⚡ | Achievement | Detail |
-|---|---|---|
+
 | 🚀 | ~40% Faster API Responses | Redis cache-first strategy |
 | 🔍 | Semantic Search in Production | MongoDB Atlas Vector Search + embeddings |
 | 🤖 | AI-Powered Code Reviews | Gemini API + prompt engineering |

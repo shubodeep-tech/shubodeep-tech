@@ -50,12 +50,12 @@ const shubodeep = {
 
 <br/>
 
-- ⚡ Cut API response time **~40%** with Redis cache-first strategy
-- 🧠 Built **semantic search** using MongoDB Atlas Vector Search
-- 🤖 Integrated **Gemini API** with structured prompt engineering
-- 🔐 Engineered **secure auth** — Passport.js + Joi validation
-- 🗺️ Live maps with **Mapbox** + image CDN via **Cloudinary**
-- 📍 Visakhapatnam, India
+- Cut API response time **~40%** with Redis cache-first strategy
+-  Built **semantic search** using MongoDB Atlas Vector Search
+-  Integrated **Gemini API** with structured prompt engineering
+- Engineered **secure auth** — Passport.js + Joi validation
+- Live maps with **Mapbox** + image CDN via **Cloudinary**
+- Exploring Java Full stck and Ai Engineering
 
 ---
 

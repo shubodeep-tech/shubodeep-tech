@@ -4,6 +4,19 @@
 
 </div>
 
+          .-""""-.
+        .'  .--.  '.
+       /   /    \   \
+      |   | 0  0 |   |
+      |   |  --  |   |🎧
+      |    \____/    |
+       \    ____    /
+        '._/____\_.'
+          /|    |\
+         / |____| \
+        /_/|____|\_\
+          /_/  \_\
+
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6EE7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+%7C+Redis+%7C+MongoDB+Atlas+Vector+Search;Gemini+API+%7C+LLM+Integrations+%F0%9F%A4%96;Building+Scalable+Production+Systems+%E2%9A%A1)
@@ -58,6 +71,143 @@ const shubodeep = {
 - Exploring Java Full stck and Ai Engineering
 
 ---
+
+# 🚀 MirAI Internship Projects
+
+
+
+## Task 1 --- Echo Chamber 9000
+
+
+
+**GitHub:**
+
+https://github.com/shubodeep-tech/MYSTREAMLITAPPMYSTREAMLITAPP
+
+
+
+**Live:** https://unitconverterpy-tnm3eaq68l4dp48veuzmqm.streamlit.app/
+
+
+
+A Streamlit application that validates user input, estimates token usage
+
+and demonstrates conditional UI logic.
+
+
+
+------------------------------------------------------------------------
+
+
+
+## Task 2 --- Multiverse Chatbot
+
+
+
+GitHub: https://github.com/shubodeep-tech/Multiverse-chatbot
+
+
+
+Live: https://app1py-vciqoyehjtklwzuapvqxux.streamlit.app/
+
+
+
+Multi-personality chatbot powered by Groq API with isolated chat memory.
+
+
+
+------------------------------------------------------------------------
+
+
+
+## Task 3 --- Multiverse of Chatbots
+
+
+
+GitHub: https://github.com/shubodeep-tech/Multiverse-of-Chatbots
+
+
+
+Live: https://4zvewzjxdwm59v87gscppx.streamlit.app/
+
+
+
+Modern ChatGPT-style interface supporting multiple AI personalities and
+
+streaming responses.
+
+
+
+------------------------------------------------------------------------
+
+
+
+## Task 4 --- AI Studio
+
+
+
+GitHub: https://github.com/shubodeep-tech/Ai-Studio
+
+
+
+AI image generation using Pollinations AI with styles, prompt
+
+enhancement and downloads.
+
+
+
+------------------------------------------------------------------------
+
+
+
+## Task 5 --- AI Visual Novel Studio
+
+
+
+GitHub: https://github.com/shubodeep-tech/AI-VISUAL-NOVEL-STUDIO
+
+
+
+Interactive AI visual novel using Groq, Pollinations AI and gTTS.
+
+
+
+# ⭐ Featured Projects
+
+
+
+-   Wanderlust --- Airbnb-inspired MERN platform.
+
+-   ReviewAI --- AI-powered review assistant.
+
+-   Lead Management System --- CRM dashboard.
+
+-   AI Studio --- AI image generation.
+
+-   Research Connect --- Research collaboration platform.
+
+
+
+📊 GitHub Analytics
+
+
+<p align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubodeep-tech&show_icons=true&theme=tokyonight"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubodeep-tech&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://streak-stats.demolab.com?user=shubodeep-tech&theme=tokyonight"/>
+
+</p>
+
+
 
 ### 💻 Most Used Languages
 
